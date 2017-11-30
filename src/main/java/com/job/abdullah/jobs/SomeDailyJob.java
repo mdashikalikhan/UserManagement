@@ -6,10 +6,10 @@ public class SomeDailyJob implements Runnable{
 
 	private static int counter = 0;
 	public void run() {
-		/*System.out.println("Daily Job Started");
+		System.out.println("Daily Job Started");
 		method1();
 		System.out.println("Daily Job Ended");
-		*/
+		
 		
 	}
 	
